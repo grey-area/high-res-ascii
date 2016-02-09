@@ -7,7 +7,7 @@ If horizontal resolution is not specified, it defaults to the smallest of 400 an
 The image is downsampled, and each pixel is replaced with the printable character closest in brightness to the original pixel, after normalization. Character brightnesses were previously calculated by, for each character, producing an image containing only that character and calculating the mean pixel brightness.
 
 
-<pre><sub><sup>
+<pre><sub><sup><sub><sup><sub><sup>
 HGUU08$dD8DD8#g8#)**==***====**rr)))))cLLcL[C{{{Fy{zxtxtzttfIywVypG$HUUdUUUa5ShUEEd&amp;$p&amp;$HUdUpUUaUU&amp;a
 Gap08d$8#QQgggR#&amp;*====***==+=*))))))))cLLv7tC{{{y{fztjtztYx{F4VFwydd$$UPUGqUppUaddE$Ed$AD&amp;GUqHUUpUdU
 Udd$D&amp;RRR#RRRRRR*=====***=+==&amp;lt;)?)))?))cLLL[tz1f{fCCCztfftY7Cyww4Vy3h$&amp;EShpApUUAAdpaGdD&amp;0dAHppGAPaU&amp;0
@@ -88,5 +88,5 @@ lLvc?)cRR8FUhhh3UphpUVISFVh{UFUhUU&amp;UqyUGd00AGUUGUUp&amp;#&amp;&amp;$G&amp;&a
 vcvc)#WgqU{yhfFfSVyyhIFy{V343yVV&amp;8H&amp;H&amp;UAUppGAd8DDRQ$&amp;dE$8$pApdUSa5ah4hIyhSV{x?))tIL{ywGNRQQ##pUh)yS=
 vlcLNNHUh3w5[Lthy4F{yw3{fyhhPUHAUH0&amp;p&amp;D0ddH8$g#RRRRWWRRRNRRQQ8&amp;pUUUaShI33hFy{[jl?fyCF8NNR&amp;R&amp;&amp;wd5UH0)
 tc1RNQ3VIyh[tyLlyhh1y{hyhyyaUUpEE808#8dQNNNNR8#RRRNBWRNBNNNNRRQHGAUahhUUaI3fyftvL[))lwpNWpRGdhGpF$V)
-</sup></sub></pre>
+</sup></sub></sup></sub></sup></sub></pre>
 
